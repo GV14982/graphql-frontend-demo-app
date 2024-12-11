@@ -1,0 +1,4 @@
+{
+  "schema": ["https://countries.trevorblades.com/graphql"],
+  "documents": ["./src/**/*.tsx"]
+}
